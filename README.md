@@ -1,1 +1,1 @@
-Bahan pembelajaran untuk web developing dengan menggunakan django framework
+Bahan pembelajaran untuk design web dengan menggunakan django framework
